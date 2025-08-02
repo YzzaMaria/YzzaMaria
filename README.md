@@ -4,7 +4,7 @@
 
 <div align="center">
   <!-- Matrix-style banner with glitch effect -->
-  <img src="https://placehold.co/1920x400/0f0f17/00ff00?text=YzzaMaria%20%7C%20System%20Saboteur%20%7C%20Chatbot%20Hacker&font=roboto" alt="Neon green matrix code falling with anime hacker character Silhouette" />
+  <img src="https://placehold.co/1920x400/0f0f17/00ff00?text=YzzaMaria%20%7C%20System%20Saboteur%20%7C%20Chatbot%20enthusiastic&font=roboto" alt="" />
   
   <!-- Animated pixel avatar (would be GIF in practice) -->
   <img src="./8-bit.png" alt="8-bit avatar" width="120" style="border-radius:50%;margin:-60px 0 20px;border:3px solid #00ff00;box-shadow:0 0 15px #00ff00"/>
