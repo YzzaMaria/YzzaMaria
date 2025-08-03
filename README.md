@@ -47,9 +47,9 @@ PORT 9001 | OVERFLOW    | (╯°□°)╯︵ ǝןqɐʇ
 
 ### 🛠️ Tech Stack
 #### 💻 Core Systems
-![Windows](https://img.shields.io/badge/Windows-Expert-0078D6?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Advanced-FCC624?style=flat&logo=linux&logoColor=black)
-![VMware](https://img.shields.io/badge/VMware-Pro-607078?style=flat&logo=vmware&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 
 #### 👩‍💻 Development
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
