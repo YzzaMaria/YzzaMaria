@@ -11,7 +11,7 @@
   <img src="./8-bit.png" alt="8-bit avatar" width="120" style="border-radius:50%;margin:-60px 0 20px;border:3px solid #00ff00;box-shadow:0 0 15px #00ff00"/>
 </div>
 
-<h1 align="center">👋 Hi, I'm YzzaMaria (Maria)</h1>
+<h1 align="center">👋 Hi, I'm YzzaMaria (Yza)</h1>
 <h3 align="center">💻 System Developer | 🤖 ML Enthusiast | 🛠️ IT Support Wizard</h3>
 
 ---
