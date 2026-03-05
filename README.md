@@ -32,11 +32,11 @@ STATUS: learning & building
 
 
 + WARNING: System may contain: 
- !- Coffee-powered code 
-!- Sporadic anime references  
-!- 3AM debugging sessions-  
+ <p>!- Coffee-powered code</p>
+<p>!- Sporadic anime references</p> 
+<p>!- 3AM debugging sessions-</p>
 
--""Access granted to worthy collaborators! (⌐■_■)""-
+<p>-""Access granted to worthy collaborators! (⌐■_■)""-</p>
 
 ### 🛠️ Tech Stack
 #### 💻 Core Systems
