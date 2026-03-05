@@ -1,6 +1,4 @@
-<!-- ░█▀▀░█▀█░█▀▄░█▀▀░█▀▄░░░░░█▀▀░▀█▀░█▀█ -->
-<!-- ░█▀▀░█▀█░█▀▄░█▀▀░█░█░░░░░█▀▀░░█░░█░█ -->
-<!-- ░▀▀▀░▀░▀░▀▀░░▀▀▀░▀▀░░░░░░▀░░░▀▀▀░▀░▀ -->
+
 
 <div align="center">
   <!-- Matrix-style banner with glitch effect -->
@@ -12,31 +10,21 @@
 </div>
 
 <h1 align="center">👋 Hi, I'm YzzaMaria (Yza)</h1>
-<h3 align="center">💻 System Developer | 🤖 ML Enthusiast | 🛠️ IT Support Wizard</h3>
+<h3 align="center">
+🎓 Statistics & Data Science student  
+💻 Background in Systems Development  
+📊 Interested in Data Analysis, Machine Learning and Programming  
 
+## Current Focus
+- Python for data analysis
+- Machine learning fundamentals
+- statistical modeling</h3>
 ---
 
-### 🔥 Current Focus
-- 📖 Studying **Machine Learning** (TensorFlow/PyTorch)
-- 🛠️ Building **anime chatbot assistants** for Discord
-- 🎵 Creating **synthwave music generators** with Python
-
----
-
-## 🔐 Access Log
-
-CPU  ████████░░░░ 65% 
-RAM  █████████░░░ 72%
-GPU  █████░░░░░░░ 45%
-ANIME_POWER ████████████ 100%  
-
- --(@-@)9--  
-
-PORT 21   | FTP         | Game Mod Repositories
-PORT 1337 | ELITE       | Secret Projects
-PORT 3306 | MySQL       | Chatbot Databases  
-PORT 8080 | HTTP        | Personal Website
-PORT 9001 | OVERFLOW    | (╯°□°)╯︵ ǝןqɐʇ 
+## 🔐 SYSTEM STATUS
+CPU: caffeinated
+RAM: overloaded with datasets
+STATUS: learning & building
 
 
 + WARNING: System may contain:
@@ -61,25 +49,17 @@ PORT 9001 | OVERFLOW    | (╯°□°)╯︵ ǝןqɐʇ
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-#### 🎮 Modding & Creative
+#### 🎮 🎨 Creative Technology 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 ![FL Studio](https://img.shields.io/badge/FL_Studio-000000?style=flat&logo=flstudio&logoColor=white)
 
 ---
 
-### 🎮 Hobby Projects
-#### 🎨 Creative Tech
-- [Anime Chatbot Framework](https://github.com/YzzaMaria/) - Modular chatbot engine for anime characters(in progress)
-- [Synthwave Wallpaper Engine](https://github.com/YzzaMaria/) - Reactive animated wallpapers(in progress)
-- [Game Modding Toolkit](https://github.com/YzzaMaria/) - Tools for Unity/Unreal mod creators(in progress)
 
-#### 🤖 ML Projects
-- [Hardware Failure Predictor](https://github.com/YzzaMaria/) - Uses sensor data to predict IT hardware issues
-- [Anime Recommendation Engine](https://github.com/YzzaMaria/) - ML model trained on anime datasets
-- [Voice Synthesizer](https://github.com/YzzaMaria/) - Text-to-speech for anime character voices
+### 🔬 ML Experiments (in progress)
 
----
+---Hardware Failure Predictor — ML model to predict hardware failures (in development)
 
 ### 📊 GitHub Stats
 <div align="center">
@@ -90,10 +70,9 @@ PORT 9001 | OVERFLOW    | (╯°□°)╯︵ ǝןqɐʇ
 ---
 
 ### 💬 Let's Collaborate!
-_I'm particularly interested in:_
-- 🤖 Machine learning applications for IT systems
-- 🎮 Game mod development communities
-- 🎵 AI-assisted music generation tools
+- Machine learning and data analysis projects
+- Open source Python tools
+- Creative AI experiments
 
 📫 Reach me: 
 ## Connect with Me
@@ -104,4 +83,4 @@ _I'm particularly interested in:_
 
 ---
 
-> "Turning coffee into code, anime into chatbots, and hardware problems into learning opportunities!" ☕💻
+>Turning coffee into code and curiosity into data-driven projects. ☕📊
