@@ -67,10 +67,7 @@ STATUS: learning & building
 ---Hardware Failure Predictor — ML model to predict hardware failures (in development)
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YzzaMaria&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YzzaMaria&layout=compact&theme=tokyonight"/>
-</div>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=YzzaMaria&theme=tokyonight"/>
 </div>
