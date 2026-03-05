@@ -10,15 +10,19 @@
 </div>
 
 <h1 align="center">👋 Hi, I'm YzzaMaria (Yza)</h1>
-<h3 align="center">
-🎓 Statistics & Data Science student  
-💻 Background in Systems Development  
-📊 Interested in Data Analysis, Machine Learning and Programming  
 
-## Current Focus
+<p align="center">
+🎓 Statistics & Data Science Student <br>
+💻 Background in Systems Development <br>
+📊 Interested in Data Analysis, Machine Learning & Programming
+</p>
+
+---
+
+## 🚀 Current Focus
 - Python for data analysis
 - Machine learning fundamentals
-- statistical modeling</h3>
+- Statistical modeling
 ---
 
 ## 🔐 SYSTEM STATUS
@@ -65,6 +69,10 @@ STATUS: learning & building
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YzzaMaria&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YzzaMaria&layout=compact&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=YzzaMaria&theme=tokyonight"/>
 </div>
 
 ---
