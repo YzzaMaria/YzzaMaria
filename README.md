@@ -31,11 +31,12 @@ RAM: overloaded with datasets
 STATUS: learning & building
 
 
-+ WARNING: System may contain:
-! - Coffee-powered code
-! - Sporadic anime references  
-!- 3AM debugging sessions- -
-""Access granted to worthy collaborators! (⌐■_■)""
++ WARNING: System may contain: 
+ !- Coffee-powered code 
+!- Sporadic anime references  
+!- 3AM debugging sessions-  
+
+-""Access granted to worthy collaborators! (⌐■_■)""-
 
 ### 🛠️ Tech Stack
 #### 💻 Core Systems
