@@ -34,7 +34,7 @@ STATUS: learning & building
 + WARNING: System may contain:
 ! - Coffee-powered code
 ! - Sporadic anime references  
-- - 3AM debugging sessions- -
+!- 3AM debugging sessions- -
 ""Access granted to worthy collaborators! (⌐■_■)""
 
 ### 🛠️ Tech Stack
@@ -70,7 +70,6 @@ STATUS: learning & building
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YzzaMaria&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YzzaMaria&layout=compact&theme=tokyonight"/>
 </div>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=YzzaMaria&theme=tokyonight"/>
 </div>
