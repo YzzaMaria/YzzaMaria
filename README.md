@@ -84,7 +84,7 @@ STATUS: learning & building
 
 [![Instagram](https://img.shields.io/badge/Instagram-@yzza_Maria-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/@yzza_Maria)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AyzaMaria-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/AyzaMaria)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/)(https://discord.gg/yza0950)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/)
 
 ---
 
